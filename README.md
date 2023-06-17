@@ -1,10 +1,21 @@
-- 👋 Hi, I’m Debdeep Das
-- 👀 I study in University Of Engineering And Management, Kolkata (UEMK) 
-- 🌱 I have just completed my 2nd year 4th Semester in the field of Computer Science And Information Technology(CSIT) 
-- 💞️ I’m skilled in C Programming, BlueJ(Blue Java), Basic Python, Android Video Editing, Game Playing
-- 📝 Now, I'm skilling myself in a graphic designing course on UI/UX field...
+<h1 align="center">Hi 👋, I'm Debdeep Das</h1>
+<h3 align="center">A passionate frontend developer from Kolkata, India</h3>
 
-<!---
-deb-deep-0619/deb-deep-0619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on **UI/UX**
+
+- 🌱 I’m skillfulled in **C Programming, Blue Java(BlueJ), Basic Python, Video Editing, Game Playing**
+
+- 👀 I'm currently studying in **B.tech 3rd Year(just have completed 2nd Year)**
+
+- 🎓 College/ University **University Of Engineering And Management, Kolkata (UEMK)**
+
+- 💬 Ask me about **anything about my above skills... and I promise that I will try my best...😊**
+
+- 📫 How to reach me **debdeepd147@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
